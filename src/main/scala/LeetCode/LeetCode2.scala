@@ -1,6 +1,5 @@
 package LeetCode
 
-
 object LeetCode2 extends App  {
 
   // 342 + 465 = 807
